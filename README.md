@@ -1,16 +1,10 @@
----
-title: "The effect of *HvVRN2* presence in the barley transcriptome after time-series of vernalization"
-author: "Chesco Montardit-Tarda"
-output: html_document
----
-
 ## Summary
 
 This is a repository related to a multifactorial time-series RNA-Seq experiment comparing two Near-Isogenic Lines of barley, differing in the presence/absence of the vernalization gene *HvVRN2*. Data, workflow and scripts are detailed.
 
 This research is part of my PhD thesis and was mostly carried out in [GDMV](http://sitios.csic.es/web/eead-estacion-experimental-aula-dei/departamentos/genetica/gdmv/index) and [Compbio](https://eead-csic-compbio.github.io/index.html) groups of the [Estación Experimental de Aula Dei](https://www.eead.csic.es/), Spain, and during a three-month stay at the [Borrill lab](https://borrilllab.com/) at the [John Innes Centre](https://www.jic.ac.uk/), UK.
 
-Manuscript is under review, and this repository will be updated after publication.
+Manuscript draft is under review of co-authors, and this repository will be updated during the process and its publication.
 
 ## Methodology and workflow
 
